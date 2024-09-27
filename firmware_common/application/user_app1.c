@@ -15,7 +15,9 @@ To start a new task using this user_app1 as a template:
  8. Add a call to YourNewTaskNameRunActiveState() in the Super Loop section of main
  9. Update yournewtaskname.h per the instructions at the top of yournewtaskname.h
 10. Delete this text (between the dashed lines) and update the Description below to describe your task
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+Testing adding and deleting line
+
 
 ------------------------------------------------------------------------------------------------------------------------
 GLOBALS
